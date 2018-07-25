@@ -8,7 +8,7 @@
 
 >Description: 数字媒体课程大作业，用django实现交互界面
 
-###环境
+### 环境
 
 python>=3.5
 
