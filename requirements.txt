@@ -1,0 +1,5 @@
+django==2.0.4
+opencv-python==3.4.0.12
+numpy==1.13.1
+PIL==4.2.1
+
